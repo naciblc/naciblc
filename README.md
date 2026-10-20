@@ -5,7 +5,7 @@
 [![logapsec blog](https://img.shields.io/badge/blog-logapsec.com-58A6FF?style=for-the-badge&logo=hugo&logoColor=white)](https://blog.logapsec.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naciblc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naciblc)
 [![X](https://img.shields.io/badge/X-@logapsec-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/logapsec)
-![Profil görüntülenme](https://komarev.com/ghpvc/?username=naciblc&color=58a6ff&style=for-the-badge&label=profil)
+![Profil görüntülenme](https://visitor-badge.laobi.icu/badge?page_id=naciblc.naciblc&left_text=profil&left_color=0d1117&right_color=58a6ff)
 
 </div>
 
