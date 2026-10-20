@@ -40,9 +40,9 @@
 
 ![En çok kullanılan diller](https://github-readme-stats.vercel.app/api/top-langs/?username=naciblc&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naciblc&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)
+![GitHub Streak](https://streak-stats.demolab.com/?user=naciblc&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)
 
-![Katkı grafiği](https://github-readme-activity-graph.vercel.app/graph?username=naciblc&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+![Katkı grafiği](https://ghchart.rshah.org/58a6ff/naciblc)
 
 </div>
 
