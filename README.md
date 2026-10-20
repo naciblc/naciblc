@@ -50,6 +50,6 @@
 
 <div align="center">
 
-*"Çoğu açık, iki sistemin aynı veriyi farklı okuduğu yerde başlar."*
+*"Merak, korkunun dokunmaya bile cesaret edemediği kilitleri kırar."*
 
 </div>
